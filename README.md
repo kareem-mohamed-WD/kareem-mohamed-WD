@@ -1,5 +1,5 @@
 #  About Me:
-Passionate Front-end & Full-Stack Web Developer focused on building modern, responsive, and high-performance web applications.<br><br>- Currently working on web applications using React.js, Node.js, and Express.<br>- Open to collaborating on open-source projects and creative web interfaces.<br>- Continuously expanding knowledge in Advanced JavaScript, Full-Stack Architecture, and Web Security.<br>- Ask me about HTML5, CSS3, JavaScript, React, Node.js, PHP, and RESTful APIs.<br>- Passionate about clean code, dark mode aesthetics, and modern web experiences.
+Passionate Front-end & Full-Stack Web Developer focused on building modern, responsive, and high-performance web applications.<br><br>- Currently working on web applications using React.js and Express.<br>- Open to collaborating on open-source projects and creative web interfaces.<br>- Continuously expanding knowledge in Advanced JavaScript, Full-Stack Architecture, and Web Security.<br>- Ask me about HTML5, CSS3, JavaScript, React and RESTful APIs.<br>- Passionate about clean code, dark mode aesthetics, and modern web experiences.
 
 
 ##  Socials:
